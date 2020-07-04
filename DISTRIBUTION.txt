@@ -1,0 +1,26 @@
+The group distribution for this project:
+
+Yang Xu: Compile enemy code
+Peng Sun: Compile bullet code
+Yulin Chen: Compile player code
+
+Co authored: main.py file
+             Images
+             Sound
+             
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+  
